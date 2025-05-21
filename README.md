@@ -1,6 +1,7 @@
 # -International-Movie-Recommender-System
 Discover movies from Bollywood, Regional Indian Cinema and Hollywood using advanced NLP and machine learning!
 A sophisticated movie recommendation system for international films powered by Natural Language Processing (NLP) and machine learning techniques. This interactive web application provides personalized movie suggestions based on plot similarities, genre matching, and other metadata.
+https://international-movie-recommender-system-nngc9maoa6sastzwpggjwj.streamlit.app/
 ## ✨ Features
 
 - **Content-based recommendation system** utilizing movie plots, genres, cast, and directors
